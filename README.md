@@ -16,3 +16,10 @@ This application allows users to sign up with their own username / email / passw
 
 ## Technologies Used
 HTML, CSS, Javascript, Node.js, PHP, MySQL, XAMPP, Bootstrap
+
+## Future Goals For Project
+- Design a better layout for creating a task & table where tasks are placed
+- Organize folder structure 
+- Revert database information into a single SQL file
+- Give each task a due today of when it should be completed. It should turn yellow when it's due and red when it's overdue
+- Adding more FA FA Icons in specific places to give the application more detail
