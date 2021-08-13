@@ -23,3 +23,4 @@ HTML, CSS, Javascript, Node.js, PHP, MySQL, XAMPP, Bootstrap
 - Revert database information into a single SQL file
 - Give each task a due today of when it should be completed. It should turn yellow when it's due and red when it's overdue
 - Adding more FA FA Icons in specific places to give the application more detail
+- Giving each user their own specific todo list that is different from another rather than sharing the same list
