@@ -1,4 +1,4 @@
-# ToDoList
+# Login / Register ToDo List Application
 
 ![img](example1.png)
 
