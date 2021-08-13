@@ -11,5 +11,8 @@ This application allows users to sign up with their own username / email / passw
 3) Update exsisting tasks
 4) Remove exsisting tasks
 
+![img](example2.png)
+
+
 ## Technologies Used
 HTML, CSS, Javascript, Node.js, PHP, MySQL, XAMPP, Bootstrap
